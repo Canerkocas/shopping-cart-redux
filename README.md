@@ -1,6 +1,6 @@
 
 
 
-Shopping cart with redux state management.
+ # Shopping cart with redux state management.
 
-<img src="src/app.png" width="600px">
+<img src="src/app.png" width="900px">
